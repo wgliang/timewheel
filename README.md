@@ -20,13 +20,13 @@ In addition to the [godoc API documentation](http://godoc.org/github.com/wgliang
 
 ## Recent Changes
 
-support type-string,but you can rewrite it in line 155.
+support type-string,but you can rewrite it in line [155](https://github.com/wgliang/timewheel/blob/master/timewheel.go#L155).
 
-## install
+## Install
 
     go get github.com/wgliang/timewheel
 
-## usage
+## Usage
 
 Below is an example which shows some common use cases for timewheel.  Check 
 [wheel_test.go](https://github.com/wgliang/timewheel/blob/master/wheel_test.go) for more
