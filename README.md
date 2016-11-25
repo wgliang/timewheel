@@ -2,12 +2,12 @@
 
 timewheel-golang
 
-[![Build Status](https://travis-ci.org/wgliang/appmonitor.svg?branch=master)](https://travis-ci.org/wgliang/appmonitor)
-[![GoDoc](https://godoc.org/github.com/wgliang/appmonitor?status.svg)](https://godoc.org/github.com/wgliang/appmonitor)
-[![Join the chat at https://gitter.im/appmonitor/Lobby](https://badges.gitter.im/appmonitor/Lobby.svg)](https://gitter.im/appmonitor/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Code Health](https://landscape.io/github/wgliang/appmonitor/master/landscape.svg?style=flat)](https://landscape.io/github/wgliang/appmonitor/master)
+[![Build Status](https://travis-ci.org/wgliang/timewheel.svg?branch=master)](https://travis-ci.org/wgliang/timewheel)
+[![GoDoc](https://godoc.org/github.com/wgliang/timewheel?status.svg)](https://godoc.org/github.com/wgliang/timewheel)
+[![Join the chat at https://gitter.im/timewheel/Lobby](https://badges.gitter.im/timewheel/Lobby.svg)](https://gitter.im/timewheel/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Code Health](https://landscape.io/github/wgliang/timewheel/master/landscape.svg?style=flat)](https://landscape.io/github/wgliang/timewheel/master)
 [![Code Issues](https://www.quantifiedcode.com/api/v1/project/98b2cb0efd774c5fa8f9299c4f96a8c5/badge.svg)](https://www.quantifiedcode.com/app/project/98b2cb0efd774c5fa8f9299c4f96a8c5)
-[![Go Report Card](https://goreportcard.com/badge/github.com/wgliang/appmonitor)](https://goreportcard.com/report/github.com/wgliang/appmonitor)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wgliang/timewheel)](https://goreportcard.com/report/github.com/wgliang/timewheel)
 [![License](https://img.shields.io/badge/LICENSE-Apache2.0-ff69b4.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 timewheel is a library which provides a timer on your resource,such as net-connection 
